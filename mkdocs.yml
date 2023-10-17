@@ -1,0 +1,7 @@
+site_name: SaiChandanTest123
+
+nav:
+  - Home: README.md
+
+plugins:
+  - techdocs-core
